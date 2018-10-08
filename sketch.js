@@ -1,7 +1,7 @@
 //three sliders: age, year, gender
 //draw to the screen a little person to show the 'lx' value of
 //that age group, gender and year
-//(500 people = 1 object)
+//(500 people = 1 little person)
 //and the little people will make bleeping noises
 //that can accumulate into a 'crowd' sound
 
